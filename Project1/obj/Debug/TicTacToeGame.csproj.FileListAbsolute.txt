@@ -1,0 +1,9 @@
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\bin\Debug\Project1.exe
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\bin\Debug\Project1.pdb
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\TicTacToeGame.csprojAssemblyReference.cache
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\TicTacToeGame.GameSettingsBoard.resources
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\TicTacToeGame.TicTacToeMisere.resources
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\Project1.exe
+C:\EDEN\תואר מדעי המחשב\שנה ג - סמסטר ב\סי שארפ\Ex5\B21 Ex05 RoeiSagiv 205435555 EdenSlavin 315074906\Project1\obj\Debug\Project1.pdb
